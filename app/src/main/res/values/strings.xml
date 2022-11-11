@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HouseCon</string>
+    <string-array name="short_by">
+        <item>up to 1000sqft</item>
+        <item>1000 to 2000 sqft</item>
+        <item>2000 to 3000sqft</item>
+        <item>3000 sqft and above</item>
+    </string-array>
+    <string-array name="bed_rooms">
+        <item>1 Bedroom</item>
+        <item>2 Bedroom</item>
+        <item>3 Bedroom</item>
+        <item>4 Bedroom and above</item>
+    </string-array>
+</resources>

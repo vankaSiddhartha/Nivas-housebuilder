@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215109107816",
+    "project_id": "housecon-d6842",
+    "storage_bucket": "housecon-d6842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215109107816:android:1fbded7ff51bacadd4bbdd",
+        "android_client_info": {
+          "package_name": "com.vanka.housecon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215109107816-s9be75jukje6mh4mgqksot2gvbfm49qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-glN_iisomiO9AnHo0kDKmwfrKBQt610"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215109107816-s9be75jukje6mh4mgqksot2gvbfm49qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
